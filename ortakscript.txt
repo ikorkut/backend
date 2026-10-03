@@ -2,3 +2,15 @@ test
 categoryController eklendi
 couponController eklendi
 courierController eklendi
+
+
+pushservice eklendi
+
+brainservice()
+
+trialcodeservice()
+
+
+cloudflareservice()
+
+
